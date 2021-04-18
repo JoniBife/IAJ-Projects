@@ -11,7 +11,7 @@ Pathfinding:
 
 ![](Resources/Pathfinding.gif)
 
-DecisionMaking:
+Decision making:
 
 ![](Resources/DecisionMaking.gif)
 
